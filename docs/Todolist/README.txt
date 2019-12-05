@@ -12,5 +12,5 @@ FILES:
 -bootstrap
 
 ISSUES:
-1. Javascript is not responsive
+1. Javascript is not responsive [solved: 5th.Dec.2019: 1:25pm] src = wrong syntax of the script tag
 
